@@ -4,4 +4,4 @@ gemspec
 
 gem 'pry-rails'
 gem 'webpacker'
-gem 'rails_com', github: 'work-design/rails_com'
+gem 'rails_com', github: 'co-op-plug/rails_com'
